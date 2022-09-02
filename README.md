@@ -8,3 +8,4 @@
     - If you know that "A" has a relative frequency of 8%, but "K" in the encrypted text has gone from 0.77% => 8%...
 
 NB! Current implementation of the cipher preserves spaces and punctuation which makes it even weaker than necessary
+Example: - "Here is an example of the weakness" => - "EBOB FP XK BUXJMIB LC QEB TBXHKBPP" vs. "EBOB FPXK BUXJ MIBL CQEBT BXHKB PP"
