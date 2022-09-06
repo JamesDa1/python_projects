@@ -20,3 +20,4 @@ def calculate_sun_distance():
 
 
 calculate_sun_distance()
+
